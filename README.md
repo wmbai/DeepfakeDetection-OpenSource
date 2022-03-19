@@ -1,7 +1,11 @@
 # Open source Deepfake detection methods
 ## 2018
- - WIFS: **In Ictu Oculi: Exposing AI Created Fake Videos by Detecting Eye Blinking**. [[paper]](https://ieeexplore.ieee.org/abstract/document/8630787)(official); [[paper]](https://www.albany.edu/faculty/mchang2/files/2018_12_WIFS_EyeBlink_FakeVideos.pdf)(arxiv)  [[code]](https://github.com/yuezunli/WIFS2018_In_Ictu_Oculi)(official)  
+ - WIFS: **In Ictu Oculi: Exposing AI Created Fake Videos by Detecting Eye Blinking**. [[paper]](https://ieeexplore.ieee.org/abstract/document/8630787)(official); [[paper]](https://www.albany.edu/faculty/mchang2/files/2018_12_WIFS_EyeBlink_FakeVideos.pdf)(arxiv)  [[code]](https://github.com/yuezunli/WIFS2018_In_Ictu_Oculi)(official) 
+ - WIFS: **Mesonet: a compact facial video forgery detection network**. [[paper]](https://ieeexplore.ieee.org/abstract/document/8630761)(official); [[paper]](https://arxiv.org/pdf/1809.00888&hl=es&sa=X&scisig=AAGBfm3FjacexOtT3zbYNcdcxC4-TmJhmg&nossl=1&oi=scholarr)(arxiv)  [[code]](https://github.com/DariusAf/MesoNet)(official); [[code]](https://github.com/Raj-08/Deepfake-Detection-Mesonet)(unofficial)   
+ - 
 ## 2019
+- CVPRW: **Exposing DeepFake Videos By Detecting Face Warping Artifacts**. [[paper]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Li_Exposing_DeepFake_Videos_By_Detecting_Face_Warping_Artifacts_CVPRW_2019_paper.pdf)  [[code]](https://github.com/yuezunli/CVPRW2019_Face_Artifacts)(official);
+- 
 ## 2020
 ## 2021
 
