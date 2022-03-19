@@ -14,5 +14,5 @@
 
 ## 2022
  - CVPR: **Voice-Face Homogeneity Tells Deepfake**. [[paper]](https://arxiv.org/abs/2203.02195)  [[code]](https://github.com/xaCheng1996/VFD)(official)  
- - Information Sciences: **FFR_FD: Effective and Fast Detection of DeepFakes Based on Feature Point Defects**. [[paper]](https://arxiv.org/abs/2107.02016)(arxiv);  [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025522002250)(official)  [[code]](https://github.com/wolo-wolo/FFR_FD-Effective-and-Fast-Detection-of-DeepFakes-Based-on-Feature-Point-Defects)(official)  
+ - Information Sciences: **FFR_FD: Effective and Fast Detection of DeepFakes Based on Feature Point Defects**. [[paper]](https://arxiv.org/abs/2107.02016)(arxiv);  [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025522002250)(official)  [[code]](https://github.com/wolo-wolo/FFR_FD-Effective-and-Fast-Detection-of-DeepFakes-Based-on-Feature-Point-Defects)(official)   
 
