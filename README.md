@@ -1,4 +1,8 @@
 # Open source Deepfake detection methods
+## 2018
+ - WIFS: **In Ictu Oculi: Exposing AI Created Fake Videos by Detecting Eye Blinking**. [[paper]](https://ieeexplore.ieee.org/abstract/document/8630787)(official); [[paper]](https://www.albany.edu/faculty/mchang2/files/2018_12_WIFS_EyeBlink_FakeVideos.pdf)(arxiv)  [[code]](https://github.com/yuezunli/WIFS2018_In_Ictu_Oculi)(official)  
+## 2019
+## 2020
 ## 2021
 
  - ICCV Oral: **Learning Self-Consistency for Deepfake Detection**. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Learning_Self-Consistency_for_Deepfake_Detection_ICCV_2021_paper.html)  [[code]](https://github.com/jtchen0528/PCL-I2G)(unofficial)  
