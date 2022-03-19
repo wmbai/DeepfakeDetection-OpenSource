@@ -10,8 +10,9 @@
  - CVPR: **Generalizing Face Forgery Detection with High-frequency Features**. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Luo_Generalizing_Face_Forgery_Detection_With_High-Frequency_Features_CVPR_2021_paper.html)  [[code]](https://github.com/592McAvoy/face-forgery-detection)(official); [[code]](https://github.com/FanDady/Face-Forgery-Detection)(unofficial)  
  - CVPR: **Lips Don't Lie: A Generalisable and Robust Approach to Face Forgery Detection**. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Haliassos_Lips_Dont_Lie_A_Generalisable_and_Robust_Approach_To_Face_CVPR_2021_paper.html)  [[code]](https://github.com/ahaliassos/LipForensics)(official); [[code]](https://github.com/alsgkals2/Lip-Extract)(unofficial)  
  - CVPR: **Multi-Attentional Deepfake Detection**. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Multi-Attentional_Deepfake_Detection_CVPR_2021_paper.html)  [[code]](https://github.com/yoctta/multiple-attention)(official) 
- -  
+
+
 ## 2022
  - CVPR: **Voice-Face Homogeneity Tells Deepfake**. [[paper]](https://arxiv.org/abs/2203.02195)  [[code]](https://github.com/xaCheng1996/VFD)(official)  
- - Information Sciences: **FFR_FD: Effective and Fast Detection of DeepFakes Based on Feature Point Defects**. [[paper]](https://arxiv.org/abs/2107.02016)  [[code]](https://github.com/wolo-wolo/FFR_FD-Effective-and-Fast-Detection-of-DeepFakes-Based-on-Feature-Point-Defects)(official)  
+ - Information Sciences: **FFR_FD: Effective and Fast Detection of DeepFakes Based on Feature Point Defects**. [[paper]](https://arxiv.org/abs/2107.02016)(arxiv);[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025522002250)(official)  [[code]](https://github.com/wolo-wolo/FFR_FD-Effective-and-Fast-Detection-of-DeepFakes-Based-on-Feature-Point-Defects)(official)  
 
