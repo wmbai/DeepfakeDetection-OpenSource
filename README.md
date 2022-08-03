@@ -19,8 +19,15 @@
  - CVPR: **Lips Don't Lie: A Generalisable and Robust Approach to Face Forgery Detection**. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Haliassos_Lips_Dont_Lie_A_Generalisable_and_Robust_Approach_To_Face_CVPR_2021_paper.html)  [[code]](https://github.com/ahaliassos/LipForensics)(official); [[code]](https://github.com/alsgkals2/Lip-Extract)(unofficial)  
  - CVPR: **Multi-Attentional Deepfake Detection**. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Multi-Attentional_Deepfake_Detection_CVPR_2021_paper.html)  [[code]](https://github.com/yoctta/multiple-attention)(official) 
 
+ - arxiv: **Deepfake Video Detection Using Convolutional Vision Transformer**.[[paper]](https://arxiv.org/abs/2102.11126) [[code]](https://github.com/erprogs/CViT)
+ - MM: **Video Transformer for Deepfake Detection with Incremental Learning**.[[paper]](https://arxiv.org/abs/2108.05307) [[code]](https://github.com/sohailahmedkhan/Video_Transformer_Deepfake_Detector)
+
 
 ## 2022
  - CVPR: **Voice-Face Homogeneity Tells Deepfake**. [[paper]](https://arxiv.org/abs/2203.02195)  [[code]](https://github.com/xaCheng1996/VFD)(official)  
  - Information Sciences: **FFR_FD: Effective and Fast Detection of DeepFakes Based on Feature Point Defects**. [[paper]](https://arxiv.org/abs/2107.02016)(arxiv);  [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025522002250)(official)  [[code]](https://github.com/wolo-wolo/FFR_FD-Effective-and-Fast-Detection-of-DeepFakes-Based-on-Feature-Point-Defects)(official)   
-
+ 
+ - CVPR: **Protecting Celebrities from DeepFake with Identity Consistency Transformer**. [[paper]](https://arxiv.org/abs/2203.01318v3) [[code]](https://github.com/LightDXY/ICT_DeepFake)
+ - ICMR: **M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection**. [[paper]](https://arxiv.org/abs/2104.09770) [[code]](https://github.com/wangjk666/M2TR-Multi-modal-Multi-scale-Transformers-for-Deepfake-Detection)
+ - CVPR: **Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection**. [[paper]](https://arxiv.org/pdf/2203.12208.pdf) [[code]](https://github.com/liangchen527/SLADD)
+ - arxiv: **Combining EfficientNet and Vision Transformers for Video Deepfake Detection**. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-06433-3_19) [[code]](https://github.com/davide-coccomini/Combining-EfficientNet-and-Vision-Transformers-for-Video-Deepfake-Detection)
