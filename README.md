@@ -31,3 +31,5 @@
  - ICMR: **M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection**. [[paper]](https://arxiv.org/abs/2104.09770) [[code]](https://github.com/wangjk666/M2TR-Multi-modal-Multi-scale-Transformers-for-Deepfake-Detection)
  - CVPR: **Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection**. [[paper]](https://arxiv.org/pdf/2203.12208.pdf) [[code]](https://github.com/liangchen527/SLADD)
  - arxiv: **Combining EfficientNet and Vision Transformers for Video Deepfake Detection**. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-06433-3_19) [[code]](https://github.com/davide-coccomini/Combining-EfficientNet-and-Vision-Transformers-for-Video-Deepfake-Detection)
+ - ECCV: **SeqDeepFake: Detecting and Recovering Sequential DeepFake Manipulation**. [[paper]](https://arxiv.org/pdf/2207.02204.pdf) [[code]](https://github.com/rshaojimmy/SeqDeepFake)
+ - ECCV: **Explaining Deepfake Detection by Analysing Image Matching**. [[paper]](https://arxiv.org/abs/2207.09679) [[code]](https://github.com/megvii-research/FST-Matching)
