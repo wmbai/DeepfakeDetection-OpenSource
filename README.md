@@ -21,6 +21,7 @@
 
  - arxiv: **Deepfake Video Detection Using Convolutional Vision Transformer**.[[paper]](https://arxiv.org/abs/2102.11126) [[code]](https://github.com/erprogs/CViT)
  - MM: **Video Transformer for Deepfake Detection with Incremental Learning**.[[paper]](https://arxiv.org/abs/2108.05307) [[code]](https://github.com/sohailahmedkhan/Video_Transformer_Deepfake_Detector)
+ - CVPR:  **Improving the Efficiency and Robustness for Deepfakes Detection through Precise Geometric Features**. [[code]](https://github.com/frederickszk/LRnet)
 
 
 ## 2022
