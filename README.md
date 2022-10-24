@@ -35,3 +35,4 @@
  - ECCV: **SeqDeepFake: Detecting and Recovering Sequential DeepFake Manipulation**. [[paper]](https://arxiv.org/pdf/2207.02204.pdf) [[code]](https://github.com/rshaojimmy/SeqDeepFake)
  - ECCV: **Explaining Deepfake Detection by Analysing Image Matching**. [[paper]](https://arxiv.org/abs/2207.09679) [[code]](https://github.com/megvii-research/FST-Matching)
  - IJCAI: **Anti-Forgery: Towards a Stealthy and Robust DeepFake Disruption Attack via Adversarial Perceptual-aware Perturbations**. [[paper]](https://arxiv.org/abs/2206.00477) [[code]](https://github.com/AbstractTeen/AntiForgery)
+ - CVPR: **Detecting Deepfakes with Self-Blended Images**. [[paper]](https://arxiv.org/abs/2204.08376) [[code]](https://github.com/mapooon/SelfBlendedImages)
